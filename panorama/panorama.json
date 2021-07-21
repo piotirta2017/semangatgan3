@@ -1,0 +1,246 @@
+{
+    "panorama": [
+        {
+            "id": "1",
+            "photoId": "point2",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/panorama/360_1.jpg",
+            "photoClass": "map360 map360-on",
+            "envId": "group-point2",
+            "envScale": "0 0 0",
+            "envClass": "spotclass",
+            "photoLink":[
+                {
+                    "id": "map_1",
+                    "spot": "linkto:#point1;spotgroup:group-point1",
+                    "position": "-22.5 1.6 -9.25"
+                },                
+                {
+                    "id": "map_1",
+                    "spot": "linkto:#point1;spotgroup:group-point1",
+                    "position": "-22.5 1.6 9.25"
+                },                
+                {
+                    "id": "map_2_1",
+                    "spot": "linkto:#point2_1;spotgroup:group-point2_1",
+                    "position": "-77 -7 50"
+                }
+            ],
+            "photoInfo":[
+                {
+                    "id": "info1",
+                    "position": "-19.555 3.000 68.434",
+                    "rotation": "",
+                    "textId": "1",
+                    "textRotation":"0 180 0",
+                    "text": "value: KUPU-KUPU RAJA1112; width: 7; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;"
+                },
+                {
+                    "id": "info2",
+                    "position": "-44.712 8 29.384",
+                    "rotation": "",
+                    "textId": "2",
+                    "textRotation":"0 180 0",
+                    "text": "value: asdasdasdasdasd; width: 7; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;"
+                }
+            ]
+
+        },
+        {
+            "id": "1",
+            "photoId": "point2_1",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/panorama/360_2.jpg",
+            "photoClass": "map360",
+            "envId": "group-point2_1",
+            "envScale": "0 0 0",
+            "envClass": "spotclass",
+            "photoLink":[
+                {
+                    "id": "map_2",
+                    "spot": "linkto:#point2;spotgroup:group-point2",
+                    "position": "-44 -14 82"
+                },                
+                {
+                    "id": "map_2_2",
+                    "spot": "linkto:#point2_2;spotgroup:group-point2_2",
+                    "position": "39 -23 112"
+                },
+                {
+                    "id": "map_2_6",
+                    "spot": "linkto:#point2_6;spotgroup:group-point2_6",
+                    "position": "20 5 -20"
+                }
+            ],
+            "photoInfo":[
+                {
+                    "id": "info3",
+                    "position": "-40 8 36",
+                    "rotation": "",
+                    "textId": "3",
+                    "textRotation":"0 180 0",
+                    "text": "value: KUPU-KUPU RAJA1112; width: 7; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;"
+                }
+            ]
+
+        },
+        {
+            "id": "1",
+            "photoId": "point2_2",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/panorama/360_3.JPG",
+            "photoClass": "map360",
+            "envId": "group-point2_2",
+            "envScale": "0 0 0",
+            "envClass": "spotclass",
+            "photoLink":[
+                {
+                    "id": "map_2_1",
+                    "spot": "linkto:#point2_1;spotgroup:group-point2_1",
+                    "position": "0 0 12"
+                },                
+                {
+                    "id": "map_2_3",
+                    "spot": "linkto:#point2_3;spotgroup:group-point2_3",
+                    "position": "-20.5 -9 -12"
+                },                
+                {
+                    "id": "map_2_4",
+                    "spot": "linkto:#point2_4;spotgroup:group-point2_4",
+                    "position": "20 0 33"
+                }
+            ],
+            "photoInfo":[
+                {
+                    "id": "info4",
+                    "position": "-40 8 36",
+                    "rotation": "",
+                    "textId": "4",
+                    "textRotation":"0 180 0",
+                    "text": "value: KUPU-KUPU RAJA1112; width: 7; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;"
+                }
+            ]
+
+        },
+        {
+            "id": "1",
+            "photoId": "point2_3",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/panorama/360_4.jpg",
+            "photoClass": "map360",
+            "envId": "group-point2_3",
+            "envScale": "0 0 0",
+            "envClass": "spotclass",
+            "photoLink":[
+                {
+                    "id": "map_2_2",
+                    "spot": "linkto:#point2_2;spotgroup:group-point2_2",
+                    "position": "0 0 39"
+                }
+            ],
+            "photoInfo":[
+                {
+                    "id": "info4",
+                    "position": "-40 8 36",
+                    "rotation": "",
+                    "textId": "4",
+                    "textRotation":"0 180 0",
+                    "text": "value: KUPU-KUPU RAJA1112; width: 7; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;"
+                }
+            ]
+
+        },
+        {
+            "id": "1",
+            "photoId": "point2_4",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/panorama/360_5.jpg",
+            "photoClass": "map360",
+            "envId": "group-point2_4",
+            "envScale": "0 0 0",
+            "envClass": "spotclass",
+            "photoLink":[
+                {
+                    "id": "map_2_2",
+                    "spot": "linkto:#point2_2;spotgroup:group-point2_2",
+                    "position": "26 0 53"
+                },
+                {
+                    "id": "map_2_5",
+                    "spot": "linkto:#point2_5;spotgroup:group-point2_5",
+                    "position": "-67 -17 15"
+                }
+            ],
+            "photoInfo":[
+                {
+                    "id": "info4",
+                    "position": "-40 8 36",
+                    "rotation": "",
+                    "textId": "4",
+                    "textRotation":"0 180 0",
+                    "text": "value: KUPU-KUPU RAJA1112; width: 7; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;"
+                }
+            ]
+
+        },
+        {
+            "id": "1",
+            "photoId": "point2_5",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/panorama/360_6.JPG",
+            "photoClass": "map360",
+            "envId": "group-point2_5",
+            "envScale": "0 0 0",
+            "envClass": "spotclass",
+            "photoLink":[
+                {
+                    "id": "map_2_4",
+                    "spot": "linkto:#point2_4;spotgroup:group-point2_4",
+                    "position": "70 -15 15"
+                },
+                {
+                    "id": "map_2_6",
+                    "spot": "linkto:#point2_6;spotgroup:group-point2_6",
+                    "position": "-76 -5 31"
+                }
+            ],
+            "photoInfo":[
+                {
+                    "id": "info4",
+                    "position": "-40 8 36",
+                    "rotation": "",
+                    "textId": "4",
+                    "textRotation":"0 180 0",
+                    "text": "value: KUPU-KUPU RAJA1112; width: 7; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;"
+                }
+            ]
+
+        },
+        {
+            "id": "1",
+            "photoId": "point2_6",
+            "src": "https://raw.githubusercontent.com/virtualtouralian/vtalian_file/main/img/panorama/360_7.jpg",
+            "photoClass": "map360",
+            "envId": "group-point2_6",
+            "envScale": "0 0 0",
+            "envClass": "spotclass",
+            "photoLink":[
+                {
+                    "id": "map_2_1",
+                    "spot": "linkto:#point2_1;spotgroup:group-point2_1",
+                    "position": "-51 -4 65"
+                },
+                {
+                    "id": "map_2_5",
+                    "spot": "linkto:#point2_5;spotgroup:group-point2_5",
+                    "position": "27 1.15 58"
+                }
+            ],
+            "photoInfo":[
+                {
+                    "id": "info4",
+                    "position": "-40 8 36",
+                    "rotation": "",
+                    "textId": "4",
+                    "textRotation":"0 180 0",
+                    "text": "value: KUPU-KUPU RAJA1112; width: 7; align: center; line-height: 50; wrap-count: 20; shader: msdf; color: #000000; anchor: center; baseline: top;"
+                }
+            ]
+
+        }
+    ]
+}
